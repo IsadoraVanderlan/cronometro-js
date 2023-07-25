@@ -1,7 +1,8 @@
 # Bem-vindos :)
 
-este é um projeto que foi feito por mim seguindo os passos do video: 
+Este é um projeto que foi feito por mim seguindo os passos do video: 
 https://www.youtube.com/watch?v=SbST27OWpmo.
+É um cronometro basico de tela, com play, break e continued.
 
 <br/>
 
