@@ -1,6 +1,7 @@
 # Bem-vindos :)
 
-Ao projeto, este é um projeto que foi feito seguindo os passos do video: https://www.youtube.com/watch?v=SbST27OWpmo.
+este é um projeto que foi feito por mim seguindo os passos do video: 
+https://www.youtube.com/watch?v=SbST27OWpmo.
 
 <br/>
 
@@ -9,7 +10,7 @@ Ao projeto, este é um projeto que foi feito seguindo os passos do video: https:
 
 # Link Para Visualização do Site:
 
-<a href="">Cronometro
+<a href="https://isadoravanderlan.github.io/cronometro-js/">Cronometro
 </a>
 <br/>
 
@@ -17,7 +18,6 @@ Ao projeto, este é um projeto que foi feito seguindo os passos do video: https:
 - HTML
 - CSS
 - Javascript
-
 
 # Cores:
 - Rosa: #b41f87;
