@@ -1,8 +1,6 @@
 # Bem-vindos :)
 
-Este é um projeto que foi feito por mim seguindo os passos do video: 
-https://www.youtube.com/watch?v=SbST27OWpmo.
-É um cronometro basico de tela, com play, break e continued.
+Cronometro basico de tela com play, break e continued.
 
 <br/>
 
@@ -24,5 +22,9 @@ https://www.youtube.com/watch?v=SbST27OWpmo.
 - Rosa: #b41f87;
 - Azul: #172953;
 - Cinza: #999b9f;
+
+  
+Este é um projeto que foi feito por mim seguindo os passos do video: 
+https://www.youtube.com/watch?v=SbST27OWpmo.
 
 
